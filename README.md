@@ -108,9 +108,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## 🤔 Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Notus NextJS. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the TEP NextJS. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Notus NextJS. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=nnjs-readme" target="_blank">website</a>.
+1. Make sure that you are using the latest version of NextJS.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
