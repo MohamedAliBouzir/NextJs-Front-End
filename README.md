@@ -28,7 +28,6 @@ TEP NextJS comes with 120 Fully Coded CSS elements, such as [Alerts](), [Buttons
 * [Project tree](#project-tree)
 * [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
-* [Resources](#resources)
 * [Getting Started](#getting-started)
     * [Installing](#installing)
     * [Running the project](#running-the-project)
@@ -116,13 +115,6 @@ We use GitHub Issues as the official bug tracker for the Notus NextJS. Here are 
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 
-## 📙 Resources
-- Demo: <a href="https://demos.creative-tim.com/notus-nextjs/?ref=nnjs-readme" target="_blank">https://demos.creative-tim.com/notus-nextjs/?ref=nnjs-readme </a>
-- Download Page: <a href="https://www.creative-tim.com/product/notus-nextjs?ref=nnjs-github-readme" target="_blank">https://www.creative-tim.com/product/notus-nextjs </a>
-- Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-readme </a>
-- License Agreement: <a href="https://www.creative-tim.com/license?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/license?ref=nnjs-readme </a>
-- Support: <a href="https://www.creative-tim.com/contact-us?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=nnjs-readme </a>
-- Issues: <a href="https://github.com/creativetimofficial/notus-nextjs/issues" target="_blank">Github Issues Page </a>
 
 # 🏁 Getting Started
 ## 📥 Installing
