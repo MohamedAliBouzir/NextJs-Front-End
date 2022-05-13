@@ -38,7 +38,7 @@ const createMessage = async (event) => {
       title : event.target.title.value,
       content : event.target.content.value
 }
-           fetch('http://localhost:8080/api/messages/new' , { method : 'POST',
+           fetch('http://localhost:8081/new' , { method : 'POST',
            headers : {
              'Content-Type': 'application/json',
              'Authorization' : localStorage.getItem('JWTtoken')
@@ -60,7 +60,7 @@ const createMessage = async (event) => {
 }
 
 const handleLike = (id) => {
-  fetch('http://localhost:8080/api/messages/'+id+'/vote/like' , { method : 'POST',
+  fetch('http://localhost:8081/'+id+'/vote/like' , { method : 'POST',
   headers : {
     'Content-Type': 'application/json',
     'Authorization' : localStorage.getItem('JWTtoken')
@@ -78,7 +78,7 @@ const handleLike = (id) => {
 }
 
 const handleDislike = (id) => {
-  fetch('http://localhost:8080/api/messages/'+id+'/vote/dislike' , { method : 'POST',
+  fetch('http://localhost:8081/'+id+'/vote/dislike' , { method : 'POST',
   headers : {
     'Content-Type': 'application/json',
     'Authorization' : localStorage.getItem('JWTtoken')
