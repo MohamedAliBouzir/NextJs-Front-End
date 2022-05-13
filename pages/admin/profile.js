@@ -11,7 +11,7 @@ export default function Profile() {
   
   useEffect(() => {
    
-      fetch('http://localhost:8080/api/users/me',  {headers : {'Authorization' : localStorage.getItem('JWTtoken')}}
+      fetch('http://localhost:8081/profile',  {headers : {'Authorization' : localStorage.getItem('JWTtoken')}}
       )
           .then(response => {
             if(!response.ok) {
