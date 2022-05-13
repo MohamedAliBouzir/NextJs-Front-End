@@ -55,13 +55,15 @@ TEP-nextjs
 ├── components
 │   ├── Cards
 │   │   ├── CardProfile.js
-│   │   └──CardSettings.js
+│   │   └── CardSettings.js
 │   ├── Dropdowns
 │   │   └── UserDropdown.js
 │   ├── Footers
 │   │   ├── Footer.js
 │   │   ├── FooterAdmin.js
 │   │   └── FooterSmall.js
+│   ├── Headers
+│   │   └── HeaderStats.js
 │   ├── Maps
 │   │   └── MapExample.js
 │   ├── Navbars
