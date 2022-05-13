@@ -1,10 +1,9 @@
 {
-  "name": "notus-nextjs",
-  "homepage": "https://demos.creative-tim.com/notus-nextjs",
+  "name": "tep-nextjs",
   "version": "1.1.0",
-  "description": "Notus NextJS - A free Tailwind CSS, NextJS and React Ui Kit and Admin by Creative Tim.",
-  "repository": "https://github.com/creativetimofficial/notus-nextjs",
-  "license": "MIT",
+  "description": "TEP project is build with both presentation pages, and Profiles.",
+  "repository": "https://github.com/MohamedAliBouzir/NextJs-Front-End",
+  "license": "",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",
     "@popperjs/core": "2.9.1",
