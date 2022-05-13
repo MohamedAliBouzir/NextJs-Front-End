@@ -10,7 +10,7 @@ export default function CardSettings(setUpdatedProfile) {
     const data = {
         bio : event.target.bio.value
   }
-             fetch('http://localhost:8080/api/users/me' , { method : 'PUT',
+             fetch('http://localhost:8081/settings' , { method : 'PUT',
              headers : {
                'Content-Type': 'application/json',
                'Authorization' : localStorage.getItem('JWTtoken')
